@@ -1,4 +1,4 @@
-Tic-Tac-Toe
+## Tic-Tac-Toe
 
 This program is a simple game of tic-tac-toe.
 
